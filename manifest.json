@@ -1,0 +1,18 @@
+{
+  "name": "C\u1edd T\u1ef7 Ph\u00fa",
+  "short_name": "C\u1edd T\u1ef7 Ph\u00fa",
+  "description": "Game C\u1edd T\u1ef7 Ph\u00fa Online",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0a1628",
+  "theme_color": "#0a1628",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
